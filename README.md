@@ -1,2 +1,4 @@
 # scripts
-Linux, python, Scripting
+for @Adriel Freud
+
+@TeamDebutySec
