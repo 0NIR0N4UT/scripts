@@ -12,7 +12,7 @@ Menu = raw_input('''
 |  __/|___  | |_| | | | (_) | |\  | |_| |>  < 
 |_|       |_|\__|_| |_|\___/|_| \_|\__,_/_/\_\
 \n		
-Powered by Adriel Freud, Giu DBS.
+Powered by Adriel Freud, 0nir0n4ut - DebutySec.
 
 	 [1] Menu
 	 [2] Creditos
